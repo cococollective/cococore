@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "extra": {
     "branch-alias": {
-      "dev-7.x-0.x": "7.0.x"
+      "dev-7.x-0.x": "7.0.x-dev"
     }
   },
   "authors": [
