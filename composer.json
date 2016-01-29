@@ -6,7 +6,7 @@
   "require": {
     "drupal/betterlogin": "7.*",
     "drupal/navbar": "7.*",
-    "cococollective/coco-article": "7.*"
+    "cococollective/coco-article": "7.0.*@dev"
   },
   "minimum-stability": "dev",
   "prefer-stable": "true",
