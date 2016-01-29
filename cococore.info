@@ -1,0 +1,6 @@
+name = CocoCore
+description = DIY Install Profile.
+core = 7.x
+
+version = "7.x-0.x"
+project = "cococore"

@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * Installation, uninstallation and upgrade code for the CocoCore install profile.
+ */

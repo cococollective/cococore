@@ -1,0 +1,13 @@
+{
+  "name": "cococollective/cococore",
+  "type": "drupal-profile",
+  "license": "GPL-2.0+",
+  "require": {},
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Sierk Beij",
+      "email": "sierk@cococollective.org"
+    }
+  ]
+}
