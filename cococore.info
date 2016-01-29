@@ -1,6 +1,7 @@
 name = CocoCore
-description = DIY Install Profile.
-core = 7.x
-
+description = An opinionated DIY install profile for Drupal.
 version = "7.x-0.x"
-project = "cococore"
+core = "7.x"
+
+dependencies="betterlogin"
+dependencies="navbar"
