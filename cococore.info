@@ -3,5 +3,5 @@ description = An opinionated DIY install profile for Drupal.
 version = "7.x-0.x"
 core = "7.x"
 
-dependencies="betterlogin"
-dependencies="navbar"
+dependencies[]="betterlogin"
+dependencies[]="navbar"

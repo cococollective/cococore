@@ -3,7 +3,10 @@
   "description": "CocoCore install profile for Drupal.",
   "type": "drupal-profile",
   "license": "GPL-2.0+",
-  "require": {},
+  "require": {
+    "drupal/betterlogin": "7.*",
+    "drupal/navbar": "7.*"
+  },
   "minimum-stability": "dev",
   "extra": {
     "branch-alias": {
