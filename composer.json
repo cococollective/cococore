@@ -5,9 +5,11 @@
   "license": "GPL-2.0+",
   "require": {
     "drupal/betterlogin": "7.*",
-    "drupal/navbar": "7.*"
+    "drupal/navbar": "7.*",
+    "cococollective/coco-article": "7.*"
   },
   "minimum-stability": "dev",
+  "prefer-stable": "true",
   "extra": {
     "branch-alias": {
       "dev-7.x-0.x": "7.0.x-dev"
