@@ -1,9 +1,15 @@
 {
   "name": "cococollective/cococore",
+  "description": "CocoCore install profile for Drupal.",
   "type": "drupal-profile",
   "license": "GPL-2.0+",
   "require": {},
   "minimum-stability": "dev",
+  "extra": {
+    "branch-alias": {
+      "7.x-1.x": "7.1.x-dev"
+    }
+  },
   "authors": [
     {
       "name": "Sierk Beij",
