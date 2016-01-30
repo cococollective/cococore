@@ -3,5 +3,6 @@ description = An opinionated DIY install profile for Drupal.
 version = "7.x-0.x"
 core = "7.x"
 
-dependencies[]="betterlogin"
-dependencies[]="navbar"
+dependencies[]="coco_article"
+dependencies[]="coco_admin_ux"
+dependencies[]="coco_ux"
