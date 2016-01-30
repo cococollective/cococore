@@ -1,0 +1,15 @@
+{
+  "name": "cococore",
+  "homepage": "https://github.com/cococollective/cococore",
+  "authors": [
+    "Sierk Beij <sierk@cococollective.org>"
+  ],
+  "description": "",
+  "license": "GPL-2.0+",
+  "ignore": "*",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cococollective/cococore.git"
+  },
+  "private": true
+}
