@@ -6,7 +6,7 @@
   ],
   "description": "",
   "license": "GPL-2.0+",
-  "ignore": "*",
+  "ignore": "/*",
   "repository": {
     "type": "git",
     "url": "git://github.com/cococollective/cococore.git"
