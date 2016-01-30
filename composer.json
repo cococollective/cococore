@@ -4,9 +4,9 @@
   "type": "drupal-profile",
   "license": "GPL-2.0+",
   "require": {
-    "drupal/betterlogin": "7.*",
-    "drupal/navbar": "7.*",
-    "cococollective/coco-article": "7.0.*@dev"
+    "cococollective/coco-article": "7.0.*",
+    "cococollective/coco-admin-ux": "7.0.*",
+    "cococollective/coco-ux": "7.0.*"
   },
   "minimum-stability": "dev",
   "prefer-stable": "true",
