@@ -1,0 +1,27 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.drupal-composer.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/cococollective/coco-article"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/cococollective/coco-admin-ux"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/cococollective/coco-ux"
+    }
+  ],
+  "require": {
+    "cococollective/coco-article": "7.0.*",
+    "cococollective/coco-admin-ux": "7.0.*",
+    "cococollective/coco-ux": "7.0.*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": "true"
+}
